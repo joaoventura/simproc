@@ -1,6 +1,6 @@
 # The simple microprocessor
 
-The "simple microprocessor" is a test-driven development approach to the implementation of a model of a very basic microprocessor in Python 3. It's purpose is to illustrate the basic components of a hardware microprocessor, such as simple instructions, memory, registers and the instruction pointer.
+The "simple microprocessor" is a test-driven development approach to the implementation of a model of a very basic microprocessor in Python 3. It's purpose is to illustrate the basic components of a hardware microprocessor, such as simple instructions, memory, registers and the instruction pointer. You can find a video showing the development at https://github.com/joaoventura/simproc.
 
 Here's a very simple program to add two numbers in memory positions [0] and [1].
 
