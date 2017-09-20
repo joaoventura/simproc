@@ -12,7 +12,7 @@ Here's a very simple program to add two numbers in memory positions [0] and [1].
     MOV r0, [1]
     JNZ 2
     MOV r0, [0]
-'''
+´´´
 
 Basically, it keeps incrementing by one the value in memory position [0] and decrementing by 1 the value in memory position [1] until value in [1] reaches zero. At that point [0] has the sum of both values.
 
